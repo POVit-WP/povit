@@ -10,7 +10,8 @@ class CloseFriendController extends Controller
 {
     public function index(){
         $user = Auth::user();
-        $closeFriends = $user->closefriends;
+        $closeFriends = $user->closefriends();
+        // dd($closeFriends);
         return view('main.closefriend', ['closeFriends' => $closeFriends]);
     }
 }
