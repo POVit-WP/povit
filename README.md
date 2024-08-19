@@ -1,12 +1,17 @@
 Kelompok 4 - Web programming
 
-![Uploading image.png…]()
+
 
 Anggota
+
 Andrea Lauren Wijaya - 2602189410
+
 Angkianto Laurence - 2602189745
+
 Gideon Giyanto - 2602189474
+
 Richard Huang - 2602200306
+
 Sarah Widya Putri - 2602189530
 
 Tata cara menjalankan aplikasi POV.it dengan ZIP clonean github
